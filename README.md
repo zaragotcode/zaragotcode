@@ -1,4 +1,4 @@
-# Hello, I'm Patrick 👋
+# Hello, I'm Patrick 👋🏾
 
 **`Full Stack Software Engineer | Project Manager | Billboard Producer`**
 
