@@ -21,4 +21,4 @@ Welcome to my Github profile where I strive to make ideas come to life! Feel fre
 
 ### 📊 Stats
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaragotcode&show_icons=true&theme=gruvbox)
+<!-- ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaragotcode&show_icons=true&theme=gruvbox)
