@@ -27,7 +27,7 @@ Today, I’m focused on cybersecurity. My projects reflect a hands-on approach t
 ## 🚧 Skills I'm Building
 
 - **SIEM Tools**: Microsoft Sentinel, Splunk, Wazuh  
-- **Languages**: Python, KQL, PowerShell  
+- **Languages**: Python, PowerShell  
 - **Cloud**: Microsoft Azure  
 - **Frameworks & Standards**: NIST Cybersecurity Framework
 
