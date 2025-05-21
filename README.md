@@ -1,24 +1,39 @@
-# Hello, I'm Patrick 👋🏾
+# 👋🏾 Hello, I'm Patrick
 
-**`Full Stack Software Engineer | Project Manager | Billboard Producer`**
+**`Cybersecurity • Software Engineering • IT Operations`**
 
-Welcome to my Github profile where I strive to make ideas come to life! Feel free to take a look around at my repositories and reach out if you'd like to collaborate!
+Welcome to my GitHub! I’m passionate about building and breaking things to better understand how they work — and ultimately, how to secure them. I use this space to document my journey, share hands-on cybersecurity labs, and collaborate with others who love tech as much as I do.
 
-### 🧰 Languages
+Feel free to browse my repositories and reach out if you want to connect or collaborate!
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Ionic" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<br />
-<!-- # -->
+---
 
-<!-- ### 📊 Stats
+## 📖 About Me
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaragotcode&show_icons=true&theme=gruvbox)--!>
+My journey into tech began shortly after high school during quarantine, when I started teaching myself software development. That curiosity led me to attend General Assembly, where I dove into web development. Over time, I became increasingly drawn to the infrastructure side — wanting to understand not just how apps work, but *why* they work and how to protect them.
+
+Today, I’m focused on cybersecurity. My projects reflect a hands-on approach to both red and blue team concepts — from privilege escalation and enumeration to log analysis and SIEM tuning using industry-standard tools.
+
+---
+
+## 👨🏾‍🔬 Current Projects
+
+- 🔐 **Active Directory Attack & Defense Simulation Lab**  
+- 🧠 **Phishing Awareness & Detection Lab**
+- 🕷️ **Web Application Security Testing Lab**
+
+---
+
+## 🚧 Skills I'm Building
+
+- **SIEM Tools**: Microsoft Sentinel, Splunk, Wazuh  
+- **Languages**: Python, KQL, PowerShell  
+- **Cloud**: Microsoft Azure  
+- **Frameworks & Standards**: NIST Cybersecurity Framework
+
+---
+
+## 👥 Let's Connect
+
+[📎 LinkedIn](https://www.linkedin.com/in/patrickmazara/)  
+📧 Email: patrickmazara@hotmail.com
